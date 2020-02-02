@@ -1,0 +1,33 @@
+{
+    "hello": "Hello World!",
+    "ScreenLogin": {
+        "InputEmailPlaceholder": "Email",
+        "InputPasswordPlaceholder": "Password",
+        "BtnRegister":"Sign in",
+        "BtnConnecter":"Connect",
+        "BtnConnecterByFacebook":"Continue with Facebook",
+        "BtnForgetPassword": "Forgot Password"
+    },
+    "ScreenRegister": {
+        "InputFirstnamePlaceholder": "Lastname",
+        "InputLastnamePlaceholder": "Firstname",
+        "InputPhoneNumberPlaceholder": "Phone Number",
+        "InputEmailPlaceholder": "Email",
+        "InputPasswordPlaceholder": "Password",
+        "InputPasswordConfPlaceholder": "Confirm Password",
+        "BtnRegister": "Register",
+        "BtnRegisterWithFacebook": "Register with Facebook"
+    },
+    "ScreenPasswordForget": {
+      "InputEmailPlaceholder": "Email",
+      "BtnSend": "Send"
+    },
+    "ScreenResetPassword": {
+      "InputPasswordPlaceholder": "New Password",
+      "InputPasswordConfPlaceholder": "Confirm Password",
+      "BtnConfirmation": "Confirm"
+    },
+    "ScreenChatConversation": {
+      "InputSendMessage": "Write a message ..."
+    }   
+}

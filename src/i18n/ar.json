@@ -1,0 +1,33 @@
+{
+    "hello": "أهلاً بالعالم",
+    "ScreenLogin": {
+        "InputEmailPlaceholder": "البريد الإلكتروني",
+        "InputPasswordPlaceholder": "كلمة مرور",
+        "BtnRegister":"تسجيل",
+        "BtnConnecter":"تسجيل الدخول",
+        "BtnConnecterByFacebook":"تسجيل الدخول بالفيسبوك",
+        "BtnForgetPassword": "نسيت كلمة المرور" 
+    },
+    "ScreenRegister": {
+        "InputFirstnamePlaceholder": "الإسم الأول",
+        "InputLastnamePlaceholder": "الإسم العائلي",
+        "InputPhoneNumberPlaceholder": "رقم الهاتف",
+        "InputEmailPlaceholder": "البريد الإلكتروني",
+        "InputPasswordPlaceholder": "كلمة مرور",
+        "InputPasswordConfPlaceholder": "تأكيد كلمة المرور",
+        "BtnRegister": "تسجيل",
+        "BtnRegisterWithFacebook": "تسجيل بالفيسبوك"
+    },
+    "ScreenPasswordForget": {
+      "InputEmailPlaceholder": "البريد الإلكتروني",
+      "BtnSend": "إرسال"
+    },
+    "ScreenResetPassword": {
+      "InputPasswordPlaceholder": "كلمة مرور جديدة",
+      "InputPasswordConfPlaceholder": "تأكيد كلمة المرور",
+      "BtnConfirmation": "تأكيد"
+    },
+    "ScreenChatConversation": {
+      "InputSendMessage": " ... اكتب رسالة"
+    }   
+}
