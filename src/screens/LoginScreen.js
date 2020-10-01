@@ -21,6 +21,7 @@ class LoginScreen extends React.Component {
         email: '',
         password: ''
     }
+{}
 
     /* Start Code For i18n */
     constructor(props) {
